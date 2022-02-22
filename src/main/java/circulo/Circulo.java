@@ -17,6 +17,8 @@ System.out.println("Introduce el radio:");
 double r=s.nextDouble();
 double area=(PI*r*r);
 System.out.printf("El valor del área es %f\n", area);
+double longitud=(2*PI*r);
+System.out.printf("La longitud del circulo es %f\n", longitud);
 System.out.printf("Cambio");
  }
 }
